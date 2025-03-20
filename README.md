@@ -44,3 +44,9 @@ Decision Trees and SVM with RBF kernel were also effective but computationally e
 KNN worked well for detecting anomalies, but was sensitive to parameter tuning.
 Logistic Regression provided a good baseline model, but lacked robustness for complex fraud patterns.
 SMOTE significantly improved fraud detection rates by balancing dataset classes.
+
+Future Work - 
+Implement deep learning techniques (LSTM for sequential transaction analysis)
+Optimize feature engineering with geographical and customer behavior data
+Deploy the fraud detection model as a real-time API for financial institutions
+Experiment with XGBoost and LightGBM for improved accuracy
