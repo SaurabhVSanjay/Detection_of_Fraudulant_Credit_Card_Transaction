@@ -1,11 +1,11 @@
 Fraud Detection in Credit Card Transactions Using Machine Learning
 
-Overview
+Overview -
 Credit card fraud detection is a critical challenge in the financial sector, leading to significant financial losses and reputational damage for institutions. This project applies machine learning techniques to classify fraudulent credit card transactions using publicly available datasets.
 
 We compare five machine learning models—Random Forest, Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, and Support Vector Machine (SVM)—to determine the most effective fraud detection approach. The project follows the CRISP-DM methodology to systematically analyze the data, preprocess imbalanced datasets, and evaluate model performance.
 
-Dataset
+Dataset -
 We used three anonymized credit card transaction datasets from Kaggle, each containing:
 
 Transaction features (e.g., amount, time, location)
